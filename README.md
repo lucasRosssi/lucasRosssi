@@ -1,10 +1,11 @@
-👋 Hi, devs! I’m Lucas Rossi! <br />
+<strong> 👋 Hi, devs! I’m Lucas Rossi! </strong> <br />
 <br />
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasRosssi&hide=prs,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br />
 <br />
 <br />
 💼 I'm in career transition and I can't wait to get a job in development! <br />
+<br />
 📚 I'm currently focusing my studies in ReactJS and React Native, and I’m also interested in Node.js, MySQL and Docker <br />
 <br />
 <br />
@@ -27,3 +28,5 @@
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasRosssi)](https://github.com/anuraghazra/github-readme-stats)
+
+  
