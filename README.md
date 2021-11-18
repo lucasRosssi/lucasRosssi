@@ -25,13 +25,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br />
 <br />
 <br />
-<!--START_SECTION:waka-->
-```text
-TypeScript   16 mins         ██████████░░░░░░░░░░░░░░░   40.54 % 
-Other        13 mins         ████████▒░░░░░░░░░░░░░░░░   32.78 % 
-SCSS         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.60 % 
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/lucasRosssi/lucasRosssi/blob/main/images/stat.svg" alt="Wakatime Stats"/>
+
+
   
