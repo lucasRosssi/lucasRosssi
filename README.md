@@ -25,3 +25,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br />
 <br />
 <br />  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasRosssi)](https://github.com/anuraghazra/github-readme-stats)
