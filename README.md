@@ -4,7 +4,6 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasRosssi&layout=compact&theme=react" /> <br />
 </div>
 <br />
-<strong>💼 I'm in career transition and I can't wait to get a job in development! <br />
 📚 I'm currently focusing my studies in ReactJS and React Native, and I’m also interested in Node.js, MySQL and Docker <br /></strong>
 <br />
 <div>
