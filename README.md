@@ -4,7 +4,7 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasRosssi&layout=compact&theme=react" /> <br />
 </div>
 <br />
-📚 I'm currently focusing my studies in ReactJS and React Native, and I’m also interested in Node.js, MySQL, Docker and Jest <br /></strong>
+📚 I'm currently focusing my studies in ReactJS and React Native, and I’m also interested in Node.js. <br /></strong>
 <br />
 <div>
   <h2>⚡ Techs</h2>
