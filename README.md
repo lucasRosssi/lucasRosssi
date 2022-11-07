@@ -2,9 +2,11 @@
 
 🎮 I had my first contact with programming in an old fighting game that I used to play that had an easy to read data file. One day, I got curious of what would happen if I changed some text lines in this file and had a lot of fun with the resulting overpowered characters, and finally got to beat the final boss.
 
-💻 Today, I found myself in the development area, and I'm currently focusing studies and career in React Native and React, so JavaScript, TypeScript, Expo CLI, React Native CLI, CSS in JS, context API and hooks are some techs and functionalities that are frequently used in my daily routine.
+💻 Today, I found myself in the development area, and I'm currently focusing studies and career in React Native and Node, so JavaScript, TypeScript, Expo, CSS in JS, context, hooks and REST API are some techs and functionalities that are frequently used in my daily routine.
 
 🎓 I have ongoing courses and projects and started to do a college degree in the area.
+
+🕹️ I'm also learning game development with Unreal Engine and C++ in my spare time. 
 
 🎯 Always willing to learn what it takes to do a good job.
 
