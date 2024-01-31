@@ -6,9 +6,6 @@
 
 🎯 Always willing to learn what it takes to do a good job.
 
-## ⚡ Techs
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
-
 <br />
 <div>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasRosssi&layout=compact&theme=react" /> <br />
