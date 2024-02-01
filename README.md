@@ -1,4 +1,4 @@
-# 📱 Hey there, I'm Lucas! I'm a software and game developer.
+# Hey there, I'm Lucas! I'm a software and game developer.
 
 🎮 I had my first contact with programming in an old fighting game that I used to play that had an easy to read data file. One day, I got curious of what would happen if I changed some text lines in this file and had a lot of fun with the resulting overpowered characters, and finally got to beat the final boss.
 
